@@ -4,7 +4,7 @@
 Hossein Foroozand<sup>1,2</sup>, Steven V. Weijs<sup>1</sup>
 
 - <sup>1</sup>:Department of Civil Engineering, University of British Columbia, Vancouver, Canada.
-- <sup>2</sup>:Department, of geosciences, Hemmera, a wholly owned subsidiary of Ausenco, Engineering Canada Inc., Vancouver, Canada.
+- <sup>2</sup>:Department of geosciences, Hemmera, a wholly owned subsidiary of Ausenco, Engineering Canada Inc., Vancouver, Canada.
 
 # Instruction to reproduce results from Paper:
 
