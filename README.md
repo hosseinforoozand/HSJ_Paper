@@ -3,8 +3,8 @@
 ## Authors
 Hossein Foroozand<sup>1,2</sup>, Steven V. Weijs<sup>1</sup>
 
-- ¹:Department of Civil Engineering, University of British Columbia, Canada
-- <sup>2</sup>:Department of Civil Engineering, University of British Columbia, Canada
+- <sup>1</sup>:Department of Civil Engineering, University of British Columbia, Vancouver, Canada.
+- <sup>2</sup>:Department, of geosciences, Hemmera, a wholly owned subsidiary of Ausenco, Engineering Canada Inc., Vancouver, Canada.
 
 # Instruction to reproduce results from Paper:
 
@@ -19,4 +19,4 @@ Hossein Foroozand: hosseinforoozand@yahoo.com; Steven V. Weijs: steven.weijs@civ
 
 If you found this code useful in your research, please make sure to cite the following publication:
 
-Foroozand, H., and Weijs, S. V.: Effect of Data Quantization on Optimal Monitoring Network Design, Water Resources Research, doi.org/10.1029/2021WR-xxxxxx
+Foroozand, H., and Weijs, S. V.: Effect of Data Quantization on Optimal Monitoring Network Design, Hydrological Sciences Journal
