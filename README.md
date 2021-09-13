@@ -1,10 +1,10 @@
 # HSJ2021paper: Effect of Data Quantization on Optimal Monitoring Network Design
 
 ## Authors
-Hossein Foroozand<sup>1,2</sup>, Steven V. Weijs¹
+Hossein Foroozand<sup>1,2</sup>, Steven V. Weijs<sup>1</sup>
 
 - ¹:Department of Civil Engineering, University of British Columbia, Canada
-- 2:Department of Civil Engineering, University of British Columbia, Canada
+- <sup>2</sup>:Department of Civil Engineering, University of British Columbia, Canada
 
 # Instruction to reproduce results from Paper:
 
